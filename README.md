@@ -232,5 +232,3 @@ desafio-feedback-clientes-bancarios/
 ├── README.md
 └── dados_ficticios.csv
 ```
-
-> O arquivo `dados_ficticios.csv` é opcional e contém apenas dados criados para fins de demonstração e desenvolvimento do prompt.
