@@ -229,6 +229,5 @@ O principal aprendizado foi perceber que um prompt eficiente não deve apenas in
 ```text
 desafio-feedback-clientes-bancarios/
 │
-├── README.md
-└── dados_ficticios.csv
+└── README.md
 ```
